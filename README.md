@@ -1,5 +1,5 @@
-  ###¡¡¡Bienvenidos a iDevSwift 👋!!!###
-  
+###¡Bienvenidos a iDevSwift 👋!
+
 Me llamo Diego, mi nombre en este mundo de la programción es ***iDevSwift***.
 Para quien no lo sepa, estoy empezando en el mundo de la programación y más enfocadamente en Swift para desarrolar apps en el ecosistema de Apple. Soy tremendamente fan de estos productos y tengo una especial ilusión en la programación, el minimalismo y las cosas que van naturalmente fluidas.
 Tengo varias ideasd de proyectos, que intentaré desarrollar en un futuro. Empezaré por los 100 dias aprendiendo Swift, un curso de Mouredev.
