@@ -10,8 +10,8 @@ Estoy ilusionado de que estemos aqui, gracias amigo. ¡¡Espero verte lo antes p
   ## 📨 Para cualquier consulta, puedes encontrarme por correo: idevyswift24@gmail.com
 
   ## 📌 **Links**
-[deprecate](https://github.com/iDevSwift/iDevRepository0.1) - *Proyecto abandonado por el momento.*
+[deprecate](https://github.com/iDevSwift/100-Dias-de-Swift) - *Proyecto abandonado por el momento.*
 
-[Swift Developer Program 2024 by Apple Coding Academy] - **PRÓXIMAMENTE**. *Repositorio dedicado a proyectos propios, prácticas propias y más de mi propia mano para que podais ver mi progreso o ayudarme en ciertos puntos de mi desarrollo.*
+[Swift Developer Program 2024 by Apple Coding Academy](https://www.github.com/iDevSwift/SDP24) - **PRÓXIMAMENTE**. *Repositorio dedicado a proyectos propios, prácticas propias y más de mi propia mano para que podais ver mi progreso o ayudarme en ciertos puntos de mi desarrollo.*
 
 
