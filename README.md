@@ -7,8 +7,8 @@ Puedes revisar con tranquilidad cualquier repositorio en abierto para echarle un
 #### 📬 Mandar un mail como empresa o reclutador: diego.mf01@gmail.com
 
 ## 👨‍💻 Dónde encontrarme
-#### [Linkedin](https://www.linkedin.com/in/dmasedafernandez/)
-#### Discord: gallugin
+#### 😃 [Linkedin](https://www.linkedin.com/in/dmasedafernandez/)
+#### 🎙️ Discord: gallugin
 #### 🤝 Correo electrónico para dudas o sugerencias: idevyswift24@gmail.com
 
 
