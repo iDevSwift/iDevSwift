@@ -1,17 +1,20 @@
-  # ¡Bienvenidos 👋!
+# ¡Bienvenidos 👋!
 
-Mi nombre es *Diego Maseda* y tras años de experiencia en el sector de las Telecomunicaciones y los Sistemas de Seguridad he decidido emprender un camino para convertirme en desarrollador de Apps en entornos Apple. Para ello, estoy aprendiendo el lenguaje Swift. Todo  experto necesita un inicio, un mentor, un lugar donde aprender esos conceptos. El mio sin duda ha sido [Apple Coding Academy](https://acoding.academy) donde he aprendido Swift6, SwiftUI, patrones de desarrollo y arquitectura, concurrencia y asincronía con Async/Await, trabajos en red, Swift Datá y Swift Testing.
-Este es un espacio seguro donde reuno mis proyectos para que empresas y personas dedicadas a la programación en Swift puedan ver mis logros y avances. Este no es un camino facil ni solitario, por lo que agradezco enormemente tus comentarios a mi código por pequeño que sea.
+Soy Diego Maseda, profesional con amplia experiencia en el sector de las Telecomunicaciones y Sistemas de Seguridad. Actualmente, he decidido redirigir mi carrera hacia el desarrollo de aplicaciones en entornos Apple, y para ello me encuentro inmerso en el aprendizaje del lenguaje Swift. Cada experto tiene un punto de partida, una guía que marca el camino. En mi caso, ese mentor ha sido Apple Coding Academy, donde he adquirido conocimientos avanzados en Swift 6, SwiftUI, patrones de diseño y arquitectura, concurrencia y asincronía con Async/Await, trabajos en red, Swift Data y Swift Testing.
 
-Puedes revisar con tranquilidad cualquier repositorio en abierto para echarle un ojo, y no dudes en contactarme por correo electrónico, Linkedin o Discord. Si eres empresa y necesitas mas informacion, por favor, manda un mail en el apartado de aqui abajo:
-#### 📬 Mandar un mail como empresa o reclutador: diego.mf01@gmail.com
+Este espacio reúne mis proyectos, un lugar donde empresas y profesionales del mundo del desarrollo en Swift pueden observar mis avances y logros. Soy consciente de que este camino no es fácil ni solitario, por lo que valoro y agradezco profundamente cualquier comentario o sugerencia sobre mi código, sin importar lo pequeño que sea.
 
-## 👨‍💻 Dónde encontrarme
-#### 😃 [Linkedin](https://www.linkedin.com/in/dmasedafernandez/)
-#### 🎙️ Discord: gallugin
-#### 🤝 Correo electrónico para dudas o sugerencias: idevyswift24@gmail.com
+Te invito a revisar mis repositorios públicos y, si deseas contactarme, puedes hacerlo a través de correo electrónico, LinkedIn o Discord. Si eres una empresa y requieres más información, por favor, utiliza el correo proporcionado a continuación:
 
-[image]({https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white})
-<img src="{https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white}"/>
+####📬 Contacto para empresas o reclutadores: diego.mf01@gmail.com
 
+##👨‍💻 Dónde encontrarme
+
+####😃 LinkedIn
+
+####🎙️ Discord: gallugin
+
+####🤝 Correo electrónico para dudas o sugerencias: idevyswift24@gmail.com
+
+https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
 
