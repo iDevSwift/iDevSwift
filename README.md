@@ -20,8 +20,9 @@ Conozco el lenguaje **Swift** que es el utilizado en los entornos Apple. Al cono
 
 ## ¿Que IDE uso?
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-Uso **Xcode** para programar en entornos Apple. Conozco el ide con sus distintas vistas y sus opciones para optimizar el programa a las necesidades requeridas.
-#### Actualmente uso la versión: 16.0
+Uso Xcode para programar en entornos Apple. Conozco el ide con sus distintas vistas y sus opciones para optimizar el programa a las necesidades requeridas.
+
+#### Actualmente uso la version: 16.0
 
 ## Otros datos de interés:
 Tengo conocimientos en *Notion*, en gama office de Apple (Pages, Number, Keynote), en *Microsoft Office* (Word, Excel, PowerPoint...).
@@ -32,11 +33,11 @@ Tengo conocimientos en *Notion*, en gama office de Apple (Pages, Number, Keynote
 
 ## ¿Dónde encontrarme?
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/dmasedafernandez/
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> gallugin
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> diego.mf01@gmail.com
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 
 
