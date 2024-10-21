@@ -11,7 +11,7 @@ Puedes revisar con tranquilidad cualquier repositorio en abierto para echarle un
 #### 🎙️ Discord: gallugin
 #### 🤝 Correo electrónico para dudas o sugerencias: idevyswift24@gmail.com
 
-![image]({https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white})
+// ![image]({https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white})
 <img src="{https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white}" />
 
 
