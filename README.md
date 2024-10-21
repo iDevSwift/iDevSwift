@@ -39,5 +39,7 @@ Tengo conocimientos en *Notion*, en gama office de Apple (Pages, Number, Keynote
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://buymeacoffee.com/mrhrifat](https://www.linkedin.com/notifications/?filter=all)
+
 
 
