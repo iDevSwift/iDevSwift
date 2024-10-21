@@ -16,6 +16,5 @@ Te invito a revisar mis repositorios públicos y, si deseas contactarme, puedes 
 
 ####🤝 Correo electrónico para dudas o sugerencias: idevyswift24@gmail.com
 
-![image]({https://camo.githubusercontent.com/12ec0e487152f2453d1428ee5e45e2e95b5381872a3117018c42cd26ab88f1ec/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f636f6d65742532306d6c2d3236326333653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c6f676f5f636f6d65745f6d6c266c6f676f436f6c6f723d7768697465})
-https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
+<img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" /> 
 
