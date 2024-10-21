@@ -25,17 +25,18 @@ Uso **Xcode** para programar en entornos Apple. Conozco el ide con sus distintas
 ## Otros datos de interés:
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> 
 Conocimientos en **Notion**
+
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> 
 Conocimientos en **Microsoft Office**
 
 
 ## ¿Dónde encontrarme?
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> #### (Click aqui)[https://www.linkedin.com/in/dmasedafernandez/]
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/dmasedafernandez/
 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> #### Discord: gallugin
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> gallugin
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> #### diego.mf01@gmail.com
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" diego.mf01@gmail.com
 
 
 
