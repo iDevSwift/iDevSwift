@@ -23,11 +23,13 @@ Uso **Xcode** para programar en entornos Apple. Conozco el ide con sus distintas
 #### Actualmente uso la versión: 16.0
 
 ## Otros datos de interés:
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> Conocimientos en **Notion**
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> Conocimientos en **Microsoft Office**
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> 
+Conocimientos en **Notion**
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> 
+Conocimientos en **Microsoft Office**
 
 
-##👨‍💻 Dónde encontrarme
+## ¿Dónde encontrarme?
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> #### (Click aqui)[https://www.linkedin.com/in/dmasedafernandez/]
 
