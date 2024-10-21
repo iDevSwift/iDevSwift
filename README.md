@@ -5,6 +5,7 @@ Este espacio reúne mis proyectos, un lugar donde empresas y profesionales del m
 
 ## ¿Qué lenguaje conozco?
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+
 Conozco el lenguaje **Swift** que es el utilizado en los entornos Apple. Al conocer este lenguaje tengo conocimientos en:
 - Swift 6
 - SwiftUI
@@ -15,7 +16,7 @@ Conozco el lenguaje **Swift** que es el utilizado en los entornos Apple. Al cono
 - Swift Data
 - Swift Testing
 
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> 
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> 
 
 ## ¿Que IDE uso?
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
@@ -23,11 +24,10 @@ Uso **Xcode** para programar en entornos Apple. Conozco el ide con sus distintas
 #### Actualmente uso la versión: 16.0
 
 ## Otros datos de interés:
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> 
-Conocimientos en **Notion**
+Tengo conocimientos en *Notion*, en gama office de Apple (Pages, Number, Keynote), en *Microsoft Office* (Word, Excel, PowerPoint...).
 
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> 
-Conocimientos en **Microsoft Office**
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> 
+
 
 
 ## ¿Dónde encontrarme?
@@ -36,7 +36,7 @@ Conocimientos en **Microsoft Office**
 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> gallugin
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" diego.mf01@gmail.com
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> diego.mf01@gmail.com
 
 
 
