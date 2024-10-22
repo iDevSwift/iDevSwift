@@ -1,4 +1,4 @@
-### 🔍 ¿Dónde encontrarme?
+### Contacto:
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego.mf01@gmail.com)   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmasedafernandez/) 
 
@@ -26,6 +26,7 @@ Conozco el lenguaje **Swift** que es el utilizado en los entornos Apple. Al cono
 
 ## 💻 ¿Que IDE uso?
 [![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
+
 Uso Xcode para programar en entornos Apple. Conozco el IDE con sus distintas vistas y sus opciones para optimizar el programa a las necesidades requeridas.
 #### Actualmente uso la version: 16.0
 
