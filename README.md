@@ -12,7 +12,7 @@ Este espacio reúne mis proyectos, un lugar donde empresas y profesionales del m
 ## 💭 ¿Qué lenguaje conozco?
 [![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 
-Conozco el lenguaje **Swift** que es el utilizado en los entornos Apple. Al conocer este lenguaje tengo conocimientos en:
+Conozco el lenguaje **Swift** que es el utilizado dentro de los entornos Apple. Al haberme especializado en este lenguaje y entorno tengo los siguientes conocimientos:
 - Swift 6
 - SwiftUI
 - Patrones de diseño y arquitectura
@@ -28,7 +28,7 @@ Conozco el lenguaje **Swift** que es el utilizado en los entornos Apple. Al cono
 [![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
 
 Uso Xcode para programar en entornos Apple. Conozco el IDE con sus distintas vistas y sus opciones para optimizar el programa a las necesidades requeridas.
-#### Actualmente uso la version: 16.0
+#### Actualmente uso la version: 16.1
 
 ## 📌 Otros datos de interés:
 Tengo conocimientos en *Notion*, en gama office de Apple (Pages, Number, Keynote), en *Microsoft Office* (Word, Excel, PowerPoint...).
