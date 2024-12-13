@@ -28,7 +28,7 @@ Conozco el lenguaje **Swift** que es el utilizado dentro de los entornos Apple. 
 [![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
 
 Uso Xcode para programar en entornos Apple. Conozco el IDE con sus distintas vistas y sus opciones para optimizar el programa a las necesidades requeridas.
-#### Actualmente uso la version: 16.1
+#### Actualmente uso la version: 16.2
 
 ## 📌 Otros datos de interés:
 Tengo conocimientos en *Notion*, en gama office de Apple (Pages, Number, Keynote), en *Microsoft Office* (Word, Excel, PowerPoint...).
