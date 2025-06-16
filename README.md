@@ -13,7 +13,7 @@ Me encanta aprender cada día algo nuevo, ver mis errores y saumirlos para avanz
 
 ## 💭 ¿Qué lenguaje conozco?
 [![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v15/icons/swift.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v15/icons/swift/#F05138.svg" />
 
 
 Estoy aprendiendo el lenguaje **Swift**, que es el utilizado dentro del Apple y que se está expandiendo cada vez más. Al estar especializandome en este lenguaje y entorno, estoy adquiriendo los siguientes conocimientos:
