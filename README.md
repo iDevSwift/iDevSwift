@@ -13,8 +13,6 @@ Me encanta aprender cada día algo nuevo, ver mis errores y saumirlos para avanz
 
 ## 💭 ¿Qué lenguaje conozco?
 [![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/apple/#F05138.svg"/>
-
 
 Estoy aprendiendo el lenguaje **Swift**, que es el utilizado dentro del Apple y que se está expandiendo cada vez más. Al estar especializandome en este lenguaje y entorno, estoy adquiriendo los siguientes conocimientos:
 - Swift 6
@@ -26,7 +24,7 @@ Estoy aprendiendo el lenguaje **Swift**, que es el utilizado dentro del Apple y 
 - Swift Data
 - Swift Testing
 
-[![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/ios-18/)    [![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/macos-sequoia/)
+[![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/ios-26/)    [![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/macos-tahoe/)
 
 ## 💻 ¿Que IDE uso?
 [![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
